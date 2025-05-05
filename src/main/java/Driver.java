@@ -1,10 +1,10 @@
 import src.main.java.Counter;
 
-public class Driver {
+public class driver {
 
 	public static void main(String[] args) {
 		
-		Counter counter = new Counter();
+		Counter counter = new counter();
 		
 		System.out.println("Count:" + counter.getCount());
 		
